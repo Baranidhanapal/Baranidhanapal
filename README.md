@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Barani</h1>
 <h3 align="center">Aspiring Cybersecurity Analyst | Tech Enthusiast | Lifelong Learner from India 🇮🇳</h3>
@@ -25,13 +25,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/divya-dharshini-a-46467225a" target="_blank">
+  <a href="https://www.linkedin.com/in/barani-dhanapal-56848325a/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/divya_dd_3" target="_blank">
+  <a href="https://www.instagram.com/its_bara_xs/?__pwa=1" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/divyaanand148" target="_blank">
+  <a href="https://www.hackerrank.com/profile/baranidhanapal71" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
 </p>
